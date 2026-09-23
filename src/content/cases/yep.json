@@ -1,0 +1,104 @@
+{
+  "slug": "lifecycle-architecture-for-user-activation",
+  "order": 2,
+  "hidden": false,
+  "number": "02",
+  "title": "Lifecycle Architecture for User Activation",
+  "display": [
+    "Lifecycle",
+    "architecture for",
+    "user activation."
+  ],
+  "kicker": "Lifecycle & activation",
+  "summary": "We designed and implemented a behaviour-driven lifecycle architecture that adapts in real time to how users move through the platform. Rather than pushing all users through the same journey, the system observes progression across key onboarding milestones and intervenes only when friction appears.",
+  "capabilities": [
+    "intelligence",
+    "technology",
+    "growth"
+  ],
+  "image": "/images/case-yep.webp",
+  "imageSecondary": "/images/case-yep-b.webp",
+  "imageAlt": "Illustrative field of dots progressively lighting along a path",
+  "cinematic": "",
+  "layout": "principles",
+  "meta": [
+    {
+      "label": "Client",
+      "value": "Yep"
+    },
+    {
+      "label": "Industry",
+      "value": "E-commerce · Digital storefronts for small businesses"
+    },
+    {
+      "label": "Focus",
+      "value": "Onboarding & lifecycle architecture"
+    }
+  ],
+  "context": "Yep experienced healthy user sign-ups but faced activation challenges.",
+  "challenge": {
+    "lead": "A significant portion of new users abandoned the store-creation process, leaving storefronts incomplete and value unrealised.",
+    "body": "The core issue: onboarding was treated as a linear flow, but user behaviour was not."
+  },
+  "objectives": [
+    "Increase completed store creations",
+    "Reduce drop-off during early activation",
+    "Scale without manual intervention",
+    "Respond to user behaviour rather than assumptions"
+  ],
+  "principlesTitle": "Three principles",
+  "principles": [
+    {
+      "title": "Visibility before optimisation",
+      "text": "Full tracking of user progression and the points where users stall."
+    },
+    {
+      "title": "Context over volume",
+      "text": "Interventions aligned with the state a user is actually in."
+    },
+    {
+      "title": "Single next action",
+      "text": "Each touchpoint guided toward one meaningful step."
+    }
+  ],
+  "approach": [
+    {
+      "title": "Behavioural tracking",
+      "text": "Tracking at the critical onboarding milestones."
+    },
+    {
+      "title": "Automated lifecycle triggers",
+      "text": "Lifecycle messages triggered by how users progress."
+    },
+    {
+      "title": "Contextual nudges",
+      "text": "Nudges designed to reduce cognitive load."
+    }
+  ],
+  "built": "A behaviour-driven lifecycle architecture that adapts in real time — replacing a linear onboarding flow.",
+  "statement": [
+    "Onboarding was a linear flow.",
+    "User behaviour *was* *not.*"
+  ],
+  "quote": "Growth doesn’t break because teams stop trying. It breaks because systems aren’t designed to adapt.",
+  "result": {
+    "headline": "Predictable, measurable, repeatable activation.",
+    "metrics": [],
+    "bullets": [
+      "Improved store completion rates",
+      "Reduced onboarding abandonment",
+      "Stronger early-stage user confidence",
+      "Predictable, measurable, repeatable activation"
+    ],
+    "note": "USFL has not published figures for these outcomes, so the results are shown as reported, without numbers."
+  },
+  "takeaways": [
+    "Onboarding is a behaviour system, not a linear flow.",
+    "Intervene only where friction appears.",
+    "Design for one meaningful next step."
+  ],
+  "seo": {
+    "title": "",
+    "description": ""
+  }
+}

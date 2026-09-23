@@ -1,0 +1,45 @@
+{
+  "primary": [
+    { "label": "Work", "to": "/work", "visible": true, "external": false },
+    { "label": "Capabilities", "to": "/capabilities", "visible": true, "external": false },
+    { "label": "About", "to": "/about", "visible": true, "external": false },
+    { "label": "Insights", "to": "/insights", "visible": true, "external": false }
+  ],
+  "cta": { "label": "Start a conversation", "to": "/contact", "visible": true },
+  "mobile": {
+    "menuLabel": "Menu",
+    "includeHome": true,
+    "showCta": true,
+    "extraLinks": [
+      { "label": "LinkedIn", "to": "https://www.linkedin.com/company/usfl-co-za", "visible": true, "external": true }
+    ]
+  },
+  "footer": {
+    "eyebrow": "Usable Solutions For Life",
+    "heading": "Connected growth *systems.*",
+    "showCta": true,
+    "columns": [
+      {
+        "title": "Explore",
+        "style": "large",
+        "usePrimaryNavigation": true,
+        "includeHome": true,
+        "links": [],
+        "text": ""
+      },
+      {
+        "title": "Connect",
+        "style": "small",
+        "usePrimaryNavigation": false,
+        "includeHome": false,
+        "links": [
+          { "label": "LinkedIn", "to": "https://www.linkedin.com/company/usfl-co-za", "visible": true, "external": true }
+        ],
+        "text": "USFL is South Africa's only Klaviyo Gold Partner delivering world-class CRM, automation, and data-driven growth."
+      }
+    ],
+    "legalLinks": [],
+    "copyright": "© {year} USFL",
+    "bottomRight": "Klaviyo Gold Partner"
+  }
+}

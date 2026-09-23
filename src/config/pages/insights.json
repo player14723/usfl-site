@@ -1,0 +1,79 @@
+{
+  "id": "insights",
+  "title": "Insights",
+  "path": "/insights",
+  "visible": true,
+  "order": 4,
+  "transitionLabel": "Insights",
+  "transitionIndex": "04",
+  "seo": {
+    "title": "Insights",
+    "description": "Notes from the work — on lifecycle architecture, customer lifetime value and behavioural marketing.",
+    "ogTitle": "",
+    "ogDescription": "",
+    "image": "",
+    "canonical": "",
+    "robots": ""
+  },
+  "sections": [
+    {
+      "type": "page-hero",
+      "id": "hero",
+      "hidden": false,
+      "motion": "inherit",
+      "spacing": "default",
+      "eyebrow": "Insights",
+      "index": "04",
+      "lines": [
+        "Thinking on",
+        "*behaviour,* data",
+        "and growth."
+      ],
+      "intro": "Notes from the work — on lifecycle architecture, customer lifetime value and behavioural marketing.",
+      "image": "/images/insight-behavioral.webp",
+      "imageAlt": "Illustrative contour field",
+      "size": "display-lg"
+    },
+    {
+      "type": "transition",
+      "id": "t-read",
+      "hidden": false,
+      "motion": "inherit",
+      "spacing": "default",
+      "from": "dark",
+      "to": "light",
+      "variant": "diagonal",
+      "kicker": "Read",
+      "lines": [
+        "Customers don’t",
+        "behave in *campaigns.*"
+      ],
+      "height": "160vh"
+    },
+    {
+      "type": "insight-list",
+      "id": "articles",
+      "hidden": false,
+      "motion": "inherit",
+      "spacing": "default",
+      "linkLabel": "Read insight"
+    },
+    {
+      "type": "cta",
+      "id": "final-cta",
+      "hidden": false,
+      "motion": "inherit",
+      "spacing": "default",
+      "theme": "dark",
+      "eyebrow": "Start a conversation",
+      "heading": "Have an idea you want to *bring to life?*",
+      "text": "If you are investing heavily in acquisition but unsure whether your retention engine is truly performing, it may be time to reassess the system behind it.",
+      "button": {
+        "label": "Start a conversation",
+        "to": "/contact"
+      },
+      "image": "/images/contact-a.webp",
+      "imageAlt": "Seen from above, two people shake hands across a working table"
+    }
+  ]
+}

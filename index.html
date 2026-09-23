@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <!-- The values below are filled from src/config (site.json, brand.json, media.json) when the site is built. -->
+    <meta name="theme-color" content="__SITE_THEME_COLOR__" />
+    <title>__SITE_TITLE__</title>
+    <meta name="description" content="__SITE_DESCRIPTION__" />
+    <meta property="og:title" content="__SITE_OG_TITLE__" />
+    <meta property="og:description" content="__SITE_DESCRIPTION__" />
+    <meta property="og:image" content="%BASE_URL%__SITE_OG_IMAGE__" />
+    <link rel="icon" href="%BASE_URL%__SITE_FAVICON__" />
+    <script>(function(){var f="__SITE_HERO_POSTER__";if(!f)return;var p=location.pathname,h=location.hash;if(p==="/"||p==="/index.html"&&(!h||h==="#/")){var l=document.createElement("link");l.rel="preload";l.as="image";l.href="%BASE_URL%"+f;l.setAttribute("fetchpriority","high");document.head.appendChild(l)}})()</script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <noscript>__SITE_NOSCRIPT__ Please enable JavaScript to view this site.</noscript>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>

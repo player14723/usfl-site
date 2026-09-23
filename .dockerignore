@@ -1,0 +1,9 @@
+node_modules
+dist
+dist-*
+data
+media-src/out
+media-src/source
+.env
+.env.local
+*.log

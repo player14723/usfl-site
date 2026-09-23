@@ -1,0 +1,97 @@
+{
+  "id": "capabilities",
+  "title": "Capabilities",
+  "path": "/capabilities",
+  "visible": true,
+  "order": 2,
+  "transitionLabel": "Capabilities",
+  "transitionIndex": "02",
+  "seo": {
+    "title": "Capabilities",
+    "description": "Experience, Intelligence, Technology and Growth — four disciplines practised together.",
+    "ogTitle": "",
+    "ogDescription": "",
+    "image": "",
+    "canonical": "",
+    "robots": ""
+  },
+  "sections": [
+    {
+      "type": "page-hero",
+      "id": "hero",
+      "hidden": false,
+      "motion": "inherit",
+      "spacing": "default",
+      "eyebrow": "Capabilities",
+      "index": "02",
+      "lines": [
+        "Four disciplines,",
+        "*practised* together."
+      ],
+      "intro": "The design of the experience, the intelligence behind it, the technology that carries it, and the growth it compounds.",
+      "image": "/images/cap-intelligence.webp",
+      "imageAlt": "Two people in lab coats and safety glasses study a robotic arm; one takes notes on a clipboard",
+      "size": "display-lg"
+    },
+    {
+      "type": "transition",
+      "id": "t-caps",
+      "hidden": false,
+      "motion": "inherit",
+      "spacing": "default",
+      "from": "dark",
+      "to": "light",
+      "variant": "circle",
+      "kicker": "Experience · Intelligence · Technology · Growth",
+      "lines": [
+        "A platform is",
+        "not the advantage."
+      ],
+      "height": "170vh",
+      "origin": [
+        0.5,
+        0.62
+      ]
+    },
+    {
+      "type": "capability-list",
+      "id": "capability-list",
+      "hidden": false,
+      "motion": "inherit",
+      "spacing": "default"
+    },
+    {
+      "type": "transition",
+      "id": "t-begin",
+      "hidden": false,
+      "motion": "inherit",
+      "spacing": "default",
+      "from": "light",
+      "to": "dark",
+      "variant": "shutter",
+      "kicker": "Begin",
+      "lines": [
+        "Where in the journey",
+        "is revenue *leaking?*"
+      ],
+      "height": "160vh"
+    },
+    {
+      "type": "cta",
+      "id": "final-cta",
+      "hidden": false,
+      "motion": "inherit",
+      "spacing": "default",
+      "theme": "dark",
+      "eyebrow": "Start a conversation",
+      "heading": "Have an idea you want to *bring to life?*",
+      "text": "If you are investing heavily in acquisition but unsure whether your retention engine is truly performing, it may be time to reassess the system behind it.",
+      "button": {
+        "label": "Start a conversation",
+        "to": "/contact"
+      },
+      "image": "/images/contact-a.webp",
+      "imageAlt": "Seen from above, two people shake hands across a working table"
+    }
+  ]
+}

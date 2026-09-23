@@ -1,0 +1,377 @@
+{
+  "images": [
+    {
+      "name": "problem-a",
+      "src": "/images/problem-a.webp",
+      "srcSmall": "/images/problem-a-sm.webp",
+      "width": 979,
+      "alt": "Pedestrians crossing a wide zebra crossing, seen from above (left fragment)",
+      "position": "50% 50%",
+      "fit": "cover",
+      "illustrative": false,
+      "caption": ""
+    },
+    {
+      "name": "problem-b",
+      "src": "/images/problem-b.webp",
+      "srcSmall": "/images/problem-b-sm.webp",
+      "width": 435,
+      "alt": "Pedestrians crossing a wide zebra crossing, seen from above (middle fragment)",
+      "position": "50% 50%",
+      "fit": "cover",
+      "illustrative": false,
+      "caption": ""
+    },
+    {
+      "name": "problem-c",
+      "src": "/images/problem-c.webp",
+      "srcSmall": "/images/problem-c-sm.webp",
+      "width": 1378,
+      "alt": "Pedestrians crossing a wide zebra crossing, seen from above (right fragment)",
+      "position": "50% 50%",
+      "fit": "cover",
+      "illustrative": false,
+      "caption": ""
+    },
+    {
+      "name": "cap-experience",
+      "src": "/images/cap-experience.webp",
+      "srcSmall": "/images/cap-experience-sm.webp",
+      "width": 1400,
+      "alt": "A hand reaches across a table of phones and tablets, every screen glowing green",
+      "position": "50% 72%",
+      "fit": "cover",
+      "illustrative": false,
+      "caption": ""
+    },
+    {
+      "name": "cap-intelligence",
+      "src": "/images/cap-intelligence.webp",
+      "srcSmall": "/images/cap-intelligence-sm.webp",
+      "width": 1400,
+      "alt": "Two people in lab coats and safety glasses study a robotic arm; one takes notes on a clipboard",
+      "position": "50% 30%",
+      "fit": "cover",
+      "illustrative": false,
+      "caption": ""
+    },
+    {
+      "name": "cap-technology",
+      "src": "/images/cap-technology.webp",
+      "srcSmall": "/images/cap-technology-sm.webp",
+      "width": 1600,
+      "alt": "Looking straight up between glass and stone towers to a clear blue sky",
+      "position": "50% 46%",
+      "fit": "cover",
+      "illustrative": false,
+      "caption": ""
+    },
+    {
+      "name": "cap-growth",
+      "src": "/images/cap-growth.webp",
+      "srcSmall": "/images/cap-growth-sm.webp",
+      "width": 1400,
+      "alt": "A tablet showing a rising candlestick chart in front of screens of live market data",
+      "position": "62% 58%",
+      "fit": "cover",
+      "illustrative": false,
+      "caption": ""
+    },
+    {
+      "name": "case-insurance",
+      "src": "/images/case-insurance.webp",
+      "srcSmall": "/images/case-insurance-sm.webp",
+      "width": 1920,
+      "alt": "Illustrative journey map with lanes for customer, employee, intermediary and system",
+      "position": "50% 50%",
+      "fit": "cover",
+      "illustrative": true,
+      "caption": ""
+    },
+    {
+      "name": "case-insurance-b",
+      "src": "/images/case-insurance-b.webp",
+      "srcSmall": "/images/case-insurance-b-sm.webp",
+      "width": 1800,
+      "alt": "Illustrative journey map detail",
+      "position": "50% 50%",
+      "fit": "cover",
+      "illustrative": true,
+      "caption": ""
+    },
+    {
+      "name": "case-yep",
+      "src": "/images/case-yep.webp",
+      "srcSmall": "/images/case-yep-sm.webp",
+      "width": 1920,
+      "alt": "Illustrative field of dots progressively lighting along a path",
+      "position": "50% 50%",
+      "fit": "cover",
+      "illustrative": true,
+      "caption": ""
+    },
+    {
+      "name": "case-yep-b",
+      "src": "/images/case-yep-b.webp",
+      "srcSmall": "/images/case-yep-b-sm.webp",
+      "width": 1800,
+      "alt": "Illustrative field of dots, detail",
+      "position": "50% 50%",
+      "fit": "cover",
+      "illustrative": true,
+      "caption": ""
+    },
+    {
+      "name": "case-advisors",
+      "src": "/images/case-advisors.webp",
+      "srcSmall": "/images/case-advisors-sm.webp",
+      "width": 1920,
+      "alt": "Illustrative perspective lattice with connected nodes",
+      "position": "50% 50%",
+      "fit": "cover",
+      "illustrative": true,
+      "caption": ""
+    },
+    {
+      "name": "case-advisors-b",
+      "src": "/images/case-advisors-b.webp",
+      "srcSmall": "/images/case-advisors-b-sm.webp",
+      "width": 1800,
+      "alt": "Illustrative lattice detail",
+      "position": "50% 50%",
+      "fit": "cover",
+      "illustrative": true,
+      "caption": ""
+    },
+    {
+      "name": "insight-klaviyo",
+      "src": "/images/insight-klaviyo.webp",
+      "srcSmall": "/images/insight-klaviyo-sm.webp",
+      "width": 1600,
+      "alt": "Illustrative luminous ribbon",
+      "position": "50% 50%",
+      "fit": "cover",
+      "illustrative": true,
+      "caption": ""
+    },
+    {
+      "name": "insight-ltv",
+      "src": "/images/insight-ltv.webp",
+      "srcSmall": "/images/insight-ltv-sm.webp",
+      "width": 1600,
+      "alt": "Illustrative dot field",
+      "position": "50% 50%",
+      "fit": "cover",
+      "illustrative": true,
+      "caption": ""
+    },
+    {
+      "name": "insight-behavioral",
+      "src": "/images/insight-behavioral.webp",
+      "srcSmall": "/images/insight-behavioral-sm.webp",
+      "width": 1600,
+      "alt": "Illustrative contour field",
+      "position": "50% 50%",
+      "fit": "cover",
+      "illustrative": true,
+      "caption": ""
+    },
+    {
+      "name": "about-a",
+      "src": "/images/about-a.webp",
+      "srcSmall": "/images/about-a-sm.webp",
+      "width": 1500,
+      "alt": "Looking straight up between glass towers to a clear blue sky",
+      "position": "50% 45%",
+      "fit": "cover",
+      "illustrative": false,
+      "caption": ""
+    },
+    {
+      "name": "about-b",
+      "src": "/images/about-b.webp",
+      "srcSmall": "/images/about-b-sm.webp",
+      "width": 1600,
+      "alt": "Fine luminous lines resolving into a single point",
+      "position": "50% 50%",
+      "fit": "cover",
+      "illustrative": true,
+      "caption": ""
+    },
+    {
+      "name": "contact-a",
+      "src": "/images/contact-a.webp",
+      "srcSmall": "/images/contact-a-sm.webp",
+      "width": 1400,
+      "alt": "Seen from above, two people shake hands across a table of laptops, notebooks and coffee",
+      "position": "50% 44%",
+      "fit": "cover",
+      "illustrative": false,
+      "caption": ""
+    },
+    {
+      "name": "paper-a",
+      "src": "/images/paper-a.webp",
+      "srcSmall": "/images/paper-a-sm.webp",
+      "width": 1800,
+      "alt": "Fine ink contour lines on paper, one band picked out in deep green",
+      "position": "50% 50%",
+      "fit": "cover",
+      "illustrative": true,
+      "caption": ""
+    },
+    {
+      "name": "paper-b",
+      "src": "/images/paper-b.webp",
+      "srcSmall": "/images/paper-b-sm.webp",
+      "width": 1600,
+      "alt": "Fine luminous contour lines on a dark ground",
+      "position": "50% 50%",
+      "fit": "cover",
+      "illustrative": true,
+      "caption": ""
+    }
+  ],
+  "cinematics": [
+    {
+      "id": "hero-plunge",
+      "enabled": true,
+      "type": "video",
+      "description": "Image 01 brought to life: orbit → through the clouds → the city → settling on the central hub.",
+      "label": "A camera plunges from orbit through the clouds to a city at night, its roads lit in golden light and its buildings joined by network nodes, settling on the central hub",
+      "src": "/videos/usfl-hero.mp4",
+      "webm": "/videos/usfl-hero.webm",
+      "mobileSrc": "/videos/usfl-hero-mobile.mp4",
+      "mobileWebm": "/videos/usfl-hero-mobile.webm",
+      "poster": "/videos/posters/usfl-hero.jpg",
+      "posterReducedMotion": "/videos/posters/usfl-hero-end.jpg",
+      "sourceImage": "/images/source/image-01.webp",
+      "playback": "once-after-intro",
+      "muted": true,
+      "playbackRate": 1,
+      "position": "50% 50%",
+      "fit": "cover",
+      "overlay": 1,
+      "still": {
+        "from": {
+          "scale": 1,
+          "x": 0,
+          "y": 0
+        },
+        "to": {
+          "scale": 1.12,
+          "x": 0,
+          "y": 0
+        },
+        "duration": 12,
+        "ease": "sine.inOut",
+        "repeat": "yoyo"
+      }
+    },
+    {
+      "id": "system-loop",
+      "enabled": true,
+      "type": "video",
+      "description": "Loop inside the connected-system scene.",
+      "label": "A luminous ribbon of light looping through space, with six glowing nodes and a travelling signal",
+      "src": "/videos/usfl-system.mp4",
+      "webm": "/videos/usfl-system.webm",
+      "mobileSrc": "/videos/usfl-system-mobile.mp4",
+      "mobileWebm": "/videos/usfl-system-mobile.webm",
+      "poster": "/videos/posters/usfl-system.jpg",
+      "posterReducedMotion": "",
+      "sourceImage": "",
+      "playback": "loop",
+      "muted": true,
+      "playbackRate": 1,
+      "position": "50% 50%",
+      "fit": "cover",
+      "overlay": 1,
+      "still": {
+        "from": {
+          "scale": 1,
+          "x": 0,
+          "y": 0
+        },
+        "to": {
+          "scale": 1.12,
+          "x": 0,
+          "y": 0
+        },
+        "duration": 12,
+        "ease": "sine.inOut",
+        "repeat": "yoyo"
+      }
+    },
+    {
+      "id": "work-loop",
+      "enabled": true,
+      "type": "video",
+      "description": "Journey-map film used by the lead case study (starts as a still, comes alive on scroll).",
+      "label": "Illustrative journey map: a signal travelling through touchpoints, decisions and an emotion curve",
+      "src": "/videos/usfl-work.mp4",
+      "webm": "/videos/usfl-work.webm",
+      "mobileSrc": "/videos/usfl-work-mobile.mp4",
+      "mobileWebm": "/videos/usfl-work-mobile.webm",
+      "poster": "/videos/posters/usfl-work.jpg",
+      "posterReducedMotion": "",
+      "sourceImage": "",
+      "playback": "loop",
+      "muted": true,
+      "playbackRate": 1,
+      "position": "50% 50%",
+      "fit": "cover",
+      "overlay": 1,
+      "still": {
+        "from": {
+          "scale": 1,
+          "x": 0,
+          "y": 0
+        },
+        "to": {
+          "scale": 1.12,
+          "x": 0,
+          "y": 0
+        },
+        "duration": 12,
+        "ease": "sine.inOut",
+        "repeat": "yoyo"
+      }
+    },
+    {
+      "id": "towers-rise",
+      "enabled": true,
+      "type": "still",
+      "description": "Example of a still-image cinematic (no video file needed): a slow camera rise into the towers photograph. Not placed on any page by default.",
+      "label": "Looking straight up between glass and stone towers to a clear blue sky",
+      "src": "",
+      "webm": "",
+      "mobileSrc": "",
+      "mobileWebm": "",
+      "poster": "/images/cap-technology.webp",
+      "posterReducedMotion": "",
+      "sourceImage": "/images/cap-technology.webp",
+      "playback": "loop",
+      "muted": true,
+      "playbackRate": 1,
+      "position": "50% 46%",
+      "fit": "cover",
+      "overlay": 0,
+      "still": {
+        "from": {
+          "scale": 1.0,
+          "x": 0,
+          "y": 3
+        },
+        "to": {
+          "scale": 1.18,
+          "x": 0,
+          "y": -3
+        },
+        "duration": 14,
+        "ease": "sine.inOut",
+        "repeat": "yoyo"
+      }
+    }
+  ]
+}

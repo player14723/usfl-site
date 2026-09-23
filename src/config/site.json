@@ -1,0 +1,87 @@
+{
+  "name": "USFL",
+  "tagline": "Usable Solutions For Life",
+  "positioning": "USFL is South Africa's only Klaviyo Gold Partner delivering world-class CRM, automation, and data-driven growth.",
+  "descriptor": "A boutique experience design and Martech agency building connected growth systems powered by data, automation, and intelligent design.",
+  "audience": "Built for organisations with complex customer relationships — including financial services and insurance.",
+  "url": "https://usfl.co.za",
+  "locale": "en_ZA",
+  "language": "en",
+  "social": {
+    "linkedin": "https://www.linkedin.com/company/usfl-co-za",
+    "instagram": "",
+    "x": "",
+    "youtube": ""
+  },
+  "contact": {
+    "email": "",
+    "phone": "",
+    "address": "",
+    "formEndpoint": ""
+  },
+  "seo": {
+    "titleTemplate": "{title} — USFL",
+    "defaultTitle": "USFL — Usable Solutions For Life | Klaviyo Gold Partner",
+    "description": "USFL is South Africa's only Klaviyo Gold Partner delivering world-class CRM, automation, and data-driven growth. A boutique experience design and Martech agency building connected growth systems.",
+    "socialImage": "/images/og.jpg",
+    "robots": "index, follow",
+    "twitterCard": "summary_large_image",
+    "structuredData": true
+  },
+  "intro": {
+    "enabled": true,
+    "oncePerSession": true,
+    "words": [
+      "Usable",
+      "Solutions",
+      "For",
+      "Life"
+    ],
+    "skipLabel": "Skip intro"
+  },
+  "notFound": {
+    "eyebrow": "Error 404",
+    "title": "404",
+    "message": "That signal doesn’t lead anywhere.",
+    "primary": {
+      "label": "Back home",
+      "to": "/"
+    },
+    "secondary": {
+      "label": "See our work",
+      "to": "/work"
+    }
+  },
+  "routes": {
+    "caseStudies": "/work",
+    "capabilities": "/capabilities",
+    "insights": "/insights"
+  },
+  "finalCta": {
+    "eyebrow": "Start a conversation",
+    "heading": "Have an idea you want to *bring to life?*",
+    "text": "If you are investing heavily in acquisition but unsure whether your retention engine is truly performing, it may be time to reassess the system behind it.",
+    "button": {
+      "label": "Start a conversation",
+      "to": "/contact"
+    },
+    "image": "/images/contact-a.webp",
+    "imageAlt": "Seen from above, two people shake hands across a working table"
+  },
+  "redirects": [],
+  "analytics": {
+    "plausibleDomain": "",
+    "googleTagId": "",
+    "requireConsent": true
+  },
+  "privacy": {
+    "showNotice": false,
+    "noticeText": "",
+    "policyLink": {
+      "label": "",
+      "to": ""
+    },
+    "acceptLabel": "Accept",
+    "declineLabel": "Decline"
+  }
+}

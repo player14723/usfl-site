@@ -1,0 +1,358 @@
+{
+  "id": "home",
+  "title": "Home",
+  "path": "/",
+  "visible": true,
+  "order": 0,
+  "transitionLabel": "Home",
+  "transitionIndex": "00",
+  "seo": {
+    "title": "",
+    "description": "",
+    "ogTitle": "",
+    "ogDescription": "",
+    "image": "",
+    "canonical": "",
+    "robots": ""
+  },
+  "sections": [
+    {
+      "type": "hero",
+      "id": "hero",
+      "hidden": false,
+      "motion": "inherit",
+      "spacing": "default",
+      "eyebrow": "USFL — Usable Solutions For Life",
+      "lines": [
+        "Connected",
+        "*growth*",
+        "systems."
+      ],
+      "lead": "USFL is South Africa's only Klaviyo Gold Partner delivering world-class CRM, automation, and data-driven growth.",
+      "primaryCta": {
+        "label": "Start a conversation",
+        "to": "/contact"
+      },
+      "secondaryCta": {
+        "label": "Explore our work",
+        "to": "/work"
+      },
+      "cinematic": "hero-plunge",
+      "figureLabel": "FIG. 01 — Orbit → Hub",
+      "liveLabel": "Live field",
+      "scrollLabel": "Scroll",
+      "scrollLength": 1
+    },
+    {
+      "type": "transition",
+      "id": "t-signal",
+      "hidden": false,
+      "motion": "inherit",
+      "spacing": "default",
+      "from": "dark",
+      "to": "light",
+      "variant": "circle",
+      "kicker": "01 — Signal",
+      "lines": [
+        "We do not send emails.",
+        "We build *customer* *growth* *systems.*"
+      ],
+      "height": "210vh",
+      "origin": [
+        0.78,
+        0.56
+      ]
+    },
+    {
+      "type": "proof",
+      "id": "proof",
+      "hidden": false,
+      "motion": "inherit",
+      "spacing": "default",
+      "eyebrow": "Proof",
+      "heading": "South Africa’s *only* Klaviyo Gold Partner.",
+      "lead": "We deliver world-class CRM, automation, and data-driven growth.",
+      "image": "/images/paper-a.webp",
+      "imageAlt": "Fine ink contour lines on paper, one band picked out in deep green",
+      "backgroundWord": "Klaviyo Gold Partner",
+      "items": [
+        {
+          "title": "Klaviyo Gold Partner",
+          "text": "Gold Partner status reflects capability, architecture and commercial impact — structured data, behaviour-driven automation and continuous optimisation."
+        },
+        {
+          "title": "Complex customer relationships",
+          "text": "Built for organisations with complex customer relationships — including financial services and insurance."
+        },
+        {
+          "title": "Published case studies",
+          "text": "Insurance · Financial services · E-commerce & digital products."
+        }
+      ]
+    },
+    {
+      "type": "transition",
+      "id": "t-relationship",
+      "hidden": false,
+      "motion": "inherit",
+      "spacing": "default",
+      "from": "light",
+      "to": "dark",
+      "variant": "diagonal",
+      "kicker": "02 — Relationship",
+      "lines": [
+        "Most brands do not have an email problem.",
+        "They have a *relationship* *problem.*"
+      ],
+      "height": "210vh"
+    },
+    {
+      "type": "problem",
+      "id": "problem",
+      "hidden": false,
+      "motion": "inherit",
+      "spacing": "default",
+      "label": "The problem",
+      "backgroundWords": [
+        "Disconnected",
+        "Fragmented",
+        "Unheard"
+      ],
+      "images": [
+        "/images/problem-a.webp",
+        "/images/problem-b.webp",
+        "/images/problem-c.webp"
+      ],
+      "scrollLength": 1,
+      "beats": [
+        {
+          "lineA": "Customers don’t behave in campaigns.",
+          "lineB": "They behave in moments.",
+          "list": []
+        },
+        {
+          "lineA": "",
+          "lineB": "",
+          "list": [
+            "A product view without an add-to-cart.",
+            "A cart without a checkout.",
+            "A first purchase without a second.",
+            "An engaged customer who slowly goes quiet."
+          ]
+        },
+        {
+          "lineA": "These aren’t gaps.",
+          "lineB": "*They’re* *relationship* *signals.*",
+          "list": [],
+          "highlight": true
+        },
+        {
+          "lineA": "Customers, employees, intermediaries.",
+          "lineB": "One ecosystem — experienced as many.",
+          "list": []
+        },
+        {
+          "lineA": "Growth doesn’t break because teams stop trying.",
+          "lineB": "It breaks because systems aren’t designed to adapt.",
+          "list": []
+        }
+      ]
+    },
+    {
+      "type": "system",
+      "id": "system",
+      "hidden": false,
+      "motion": "inherit",
+      "spacing": "default",
+      "label": "The connected system",
+      "introLines": [
+        "One connected",
+        "*system.*"
+      ],
+      "cinematic": "system-loop",
+      "scrollLength": 1
+    },
+    {
+      "type": "transition",
+      "id": "t-infrastructure",
+      "hidden": false,
+      "motion": "inherit",
+      "spacing": "default",
+      "from": "dark",
+      "to": "light",
+      "variant": "rise",
+      "kicker": "03 — Infrastructure",
+      "lines": [
+        "The platform is not the advantage.",
+        "The *system* *built* *on* *top* is."
+      ],
+      "height": "200vh"
+    },
+    {
+      "type": "capabilities",
+      "id": "capabilities",
+      "hidden": false,
+      "motion": "inherit",
+      "spacing": "default",
+      "theme": "light",
+      "eyebrow": "Capabilities",
+      "heading": "What we actually *do.*",
+      "intro": "Four disciplines, practised together: the design of the experience, the intelligence behind it, the technology that carries it, and the growth it compounds.",
+      "linkLabel": "All capabilities",
+      "linkTo": "/capabilities"
+    },
+    {
+      "type": "transition",
+      "id": "t-craft",
+      "hidden": false,
+      "motion": "inherit",
+      "spacing": "default",
+      "from": "light",
+      "to": "dark",
+      "variant": "shutter",
+      "kicker": "04 — Craft",
+      "lines": [
+        "Anyone can install Klaviyo.",
+        "Very few build it into a *growth* *engine.*"
+      ],
+      "height": "200vh"
+    },
+    {
+      "type": "selected-work",
+      "id": "selected-work",
+      "hidden": false,
+      "motion": "inherit",
+      "spacing": "default",
+      "eyebrow": "Selected work",
+      "heading": "Systems in the *world.*",
+      "linkLabel": "All work",
+      "linkTo": "/work",
+      "lead": {
+        "caseStudy": "transforming-a-traditional-insurance-giant-into-a-customer-centric-digital-powerhouse",
+        "titleLines": [
+          "Transforming a",
+          "*traditional* insurance",
+          "giant."
+        ],
+        "summary": "Reimagining a legacy insurance ecosystem that unites customers, employees, and intermediaries.",
+        "cinematic": "work-loop",
+        "caption": "Illustrative — not client artwork",
+        "linkLabel": "Read the story"
+      },
+      "pair": [
+        "lifecycle-architecture-for-user-activation",
+        "empowering-advisors-with-tools-for-the-future-of-financial-planning"
+      ],
+      "scrollLength": 1
+    },
+    {
+      "type": "transition",
+      "id": "t-fit",
+      "hidden": false,
+      "motion": "inherit",
+      "spacing": "default",
+      "from": "dark",
+      "to": "light",
+      "variant": "circle",
+      "kicker": "05 — Fit",
+      "lines": [
+        "Complex relationships.",
+        "*Designed* to hold together."
+      ],
+      "height": "200vh",
+      "origin": [
+        0.2,
+        0.4
+      ]
+    },
+    {
+      "type": "audience",
+      "id": "audience",
+      "hidden": false,
+      "motion": "inherit",
+      "spacing": "default",
+      "eyebrow": "Who this is for",
+      "lead": "Built for organisations with complex customer relationships — including financial services and insurance.",
+      "source": "audience",
+      "items": []
+    },
+    {
+      "type": "transition",
+      "id": "t-intent",
+      "hidden": false,
+      "motion": "inherit",
+      "spacing": "default",
+      "from": "light",
+      "to": "dark",
+      "variant": "hbars",
+      "kicker": "06 — Intent",
+      "lines": [
+        "Messages triggered by intent,",
+        "not by *calendar* *dates.*"
+      ],
+      "height": "200vh"
+    },
+    {
+      "type": "why",
+      "id": "why",
+      "hidden": false,
+      "motion": "inherit",
+      "spacing": "default",
+      "eyebrow": "Why USFL",
+      "heading": "Why *USFL.*",
+      "lead": "We do not send emails. We build customer growth systems.",
+      "image": "/images/paper-b.webp",
+      "imageAlt": "Fine luminous contour lines on a dark ground",
+      "source": "why",
+      "items": []
+    },
+    {
+      "type": "trust",
+      "id": "trust",
+      "hidden": false,
+      "motion": "inherit",
+      "spacing": "default",
+      "eyebrow": "Partners & trust",
+      "showMarquee": true,
+      "facts": [
+        {
+          "label": "Klaviyo",
+          "text": "Gold Partner — capability, architecture and commercial impact."
+        },
+        {
+          "label": "Client named in our work",
+          "text": "{namedClients} — lifecycle architecture for user activation."
+        },
+        {
+          "label": "Sectors",
+          "text": "{sectors}"
+        }
+      ],
+      "seal": {
+        "show": true,
+        "ring": "KLAVIYO GOLD PARTNER · SOUTH AFRICA · CRM · AUTOMATION · ",
+        "top": "Gold",
+        "line1": "Klaviyo",
+        "line2": "Partner",
+        "label": "Klaviyo Gold Partner"
+      }
+    },
+    {
+      "type": "cta",
+      "id": "final-cta",
+      "hidden": false,
+      "motion": "inherit",
+      "spacing": "default",
+      "theme": "dark",
+      "eyebrow": "Start a conversation",
+      "heading": "Have an idea you want to *bring to life?*",
+      "text": "If you are investing heavily in acquisition but unsure whether your retention engine is truly performing, it may be time to reassess the system behind it.",
+      "button": {
+        "label": "Start a conversation",
+        "to": "/contact"
+      },
+      "image": "/images/contact-a.webp",
+      "imageAlt": "Seen from above, two people shake hands across a working table"
+    }
+  ]
+}

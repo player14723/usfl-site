@@ -1,0 +1,70 @@
+{
+  "title": "The connected system",
+  "stages": [
+    {
+      "key": "strategy",
+      "name": "Strategy",
+      "line": "We turn complexity into a clear plan for how your brand attracts, converts, and keeps customers.",
+      "tags": [
+        "Insights",
+        "Architecture"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "experience",
+      "name": "Experience",
+      "line": "We design intuitive digital experiences that make brands easier to understand, trust, and choose.",
+      "tags": [
+        "UX strategy",
+        "UI design",
+        "Prototyping"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "data",
+      "name": "Data",
+      "line": "Every browse, purchase, click and drop-off becomes something you can act on.",
+      "tags": [
+        "Behavioural tracking",
+        "Segmentation",
+        "Lifetime value"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "technology",
+      "name": "Technology",
+      "line": "Platforms treated as infrastructure — the engine behind a relationship architecture designed to drive revenue.",
+      "tags": [
+        "Klaviyo",
+        "Integration",
+        "Architecture"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "automation",
+      "name": "Automation",
+      "line": "Messages triggered by intent, not by calendar dates. Journeys built around behaviour, not assumptions.",
+      "tags": [
+        "Lifecycle",
+        "Triggers",
+        "Personalisation"
+      ],
+      "hidden": false
+    },
+    {
+      "key": "growth",
+      "name": "Growth",
+      "line": "Growth systems that turn traffic into customers, customers into loyalty, and data into smarter decisions.",
+      "tags": [
+        "Acquisition",
+        "Conversion",
+        "CRM"
+      ],
+      "hidden": false
+    }
+  ]
+}

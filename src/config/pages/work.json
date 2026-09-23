@@ -1,0 +1,97 @@
+{
+  "id": "work",
+  "title": "Work",
+  "path": "/work",
+  "visible": true,
+  "order": 1,
+  "transitionLabel": "Work",
+  "transitionIndex": "01",
+  "seo": {
+    "title": "Work",
+    "description": "Case studies from insurance, financial services and digital products — how complex customer relationships were understood, designed and built.",
+    "ogTitle": "",
+    "ogDescription": "",
+    "image": "",
+    "canonical": "",
+    "robots": ""
+  },
+  "sections": [
+    {
+      "type": "page-hero",
+      "id": "hero",
+      "hidden": false,
+      "motion": "inherit",
+      "spacing": "default",
+      "eyebrow": "Selected work",
+      "index": "01",
+      "lines": [
+        "Work that",
+        "*moves* the",
+        "relationship."
+      ],
+      "intro": "Case studies from insurance, financial services and digital products — each one a look at how a complex customer relationship was understood, designed and built.",
+      "image": "/images/case-yep.webp",
+      "imageAlt": "Illustrative field of dots lighting along a path",
+      "size": "display-xl"
+    },
+    {
+      "type": "transition",
+      "id": "t-cases",
+      "hidden": false,
+      "motion": "inherit",
+      "spacing": "default",
+      "from": "dark",
+      "to": "light",
+      "variant": "rise",
+      "kicker": "Case studies",
+      "lines": [
+        "Three engagements.",
+        "One way of *working.*"
+      ],
+      "height": "170vh"
+    },
+    {
+      "type": "case-list",
+      "id": "cases",
+      "hidden": false,
+      "motion": "inherit",
+      "spacing": "default",
+      "note": "Imagery on this page is illustrative — compositions that stand in for project photography. Client names appear only where they have been published.",
+      "linkLabel": "View case study",
+      "showCapabilities": true
+    },
+    {
+      "type": "transition",
+      "id": "t-your-turn",
+      "hidden": false,
+      "motion": "inherit",
+      "spacing": "default",
+      "from": "light",
+      "to": "dark",
+      "variant": "diagonal",
+      "kicker": "Your turn",
+      "lines": [
+        "What would we",
+        "*find* in yours?"
+      ],
+      "height": "160vh"
+    },
+    {
+      "type": "cta",
+      "id": "final-cta",
+      "hidden": false,
+      "motion": "inherit",
+      "spacing": "default",
+      "theme": "dark",
+      "eyebrow": "Start a conversation",
+      "heading": "Have an idea you want to *bring to life?*",
+      "text": "If you are investing heavily in acquisition but unsure whether your retention engine is truly performing, it may be time to reassess the system behind it.",
+      "button": {
+        "label": "Start a conversation",
+        "to": "/contact"
+      },
+      "image": "/images/contact-a.webp",
+      "imageAlt": "Seen from above, two people shake hands across a working table"
+    }
+  ]
+}

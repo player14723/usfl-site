@@ -1,0 +1,47 @@
+{
+  "slug": "technology",
+  "order": 3,
+  "hidden": false,
+  "number": "03",
+  "name": "Technology",
+  "short": "Platforms treated as infrastructure — with Klaviyo at the core.",
+  "statement": [
+    "Klaviyo, treated as",
+    "*infrastructure.*"
+  ],
+  "image": "/images/cap-technology.webp",
+  "imageAlt": "Looking straight up between glass and stone towers to a clear blue sky",
+  "services": [
+    "Klaviyo",
+    "Lifecycle architecture",
+    "Tracking & integration",
+    "Legacy modernisation"
+  ],
+  "intro": "The platform is not the advantage. The system built on top of it is. We treat Klaviyo as infrastructure — the engine behind a relationship architecture designed to drive revenue.",
+  "body": [
+    "As South Africa’s only Klaviyo Gold Partner, we build the structure underneath the messages: structured data, tracking integrated properly, and behaviour-driven automation that keeps working long after a single campaign ends.",
+    "For larger organisations the technology question is also a change question — modernising legacy systems, and aligning fragmented teams around one experience."
+  ],
+  "principles": [
+    {
+      "title": "Infrastructure, not a broadcast tool",
+      "text": "Anyone can install Klaviyo. Very few build it into a true growth engine."
+    },
+    {
+      "title": "Structured data",
+      "text": "Clean events and properties so intelligence can be trusted."
+    },
+    {
+      "title": "Built to compound",
+      "text": "Continuous optimisation, so journeys keep improving."
+    }
+  ],
+  "relatedInsights": [
+    "usfl-is-a-klaviyo-gold-partner-but-this-isnt-about-a-badge",
+    "a-3-step-approach-to-behavioral-email-marketing"
+  ],
+  "seo": {
+    "title": "",
+    "description": ""
+  }
+}

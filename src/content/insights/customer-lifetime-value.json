@@ -1,0 +1,77 @@
+{
+  "slug": "how-to-simply-calculate-customer-lifetime-value",
+  "order": 2,
+  "hidden": false,
+  "title": "How to Simply Calculate Customer Lifetime Value",
+  "display": [
+    "How to simply",
+    "calculate customer",
+    "lifetime value."
+  ],
+  "category": "Customer analytics",
+  "readMinutes": 3,
+  "dek": "Customer lifetime value (LTV) can be defined as the monetary amount a customer may bring to you throughout the relationship with your brand.",
+  "image": "/images/insight-ltv.webp",
+  "imageAlt": "Illustrative dot field",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Quick, what’s the average lifetime value of your customers? If you’re like a lot of companies, this isn’t an answer that you necessarily have on hand. Customer lifetime value (LTV) can be defined as the monetary amount a customer may bring to you throughout the relationship with your brand. While there are many (complex) ways to calculate this, the following equation is the simplest way to get an indication of LTV:"
+    },
+    {
+      "type": "formula",
+      "text": "(avg. value of sale) × (avg. number of repeat purchases) × (avg. retention time)"
+    },
+    {
+      "type": "heading",
+      "text": "Average value of sale"
+    },
+    {
+      "type": "paragraph",
+      "text": "The monetary average of an individual sale. Determine it by calculating the total sales revenue for the year and dividing it by the number of sales for the year. For example: 25,000 sales for a total of R5,000,000 = R200 per sale."
+    },
+    {
+      "type": "heading",
+      "text": "Average number of repeat purchases"
+    },
+    {
+      "type": "paragraph",
+      "text": "The average number of times a customer is likely to purchase from you. Take the total number of sales for the year and divide it by the total number of unique customers for the year. For example: 25,000 sales from 10,000 customers = 2.5 purchases per customer."
+    },
+    {
+      "type": "heading",
+      "text": "Average retention time"
+    },
+    {
+      "type": "paragraph",
+      "text": "The number of years a customer shops with you. There are two simple steps:"
+    },
+    {
+      "type": "list",
+      "items": [
+        "Calculate your churn rate — the drop-off percentage of customers from one year to the next (the percentage you keep is your retention rate). For example, 15,000 customers in 2015 and 10,000 in 2016 gives a retention rate of 67%, and so a churn rate of 33%.",
+        "Then calculate average retention time: retention time = 1 ÷ churn rate. For example, 1 ÷ 33% = 3 years."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Using the formula above you can now determine that LTV = R200 × 2.5 × 3 years, therefore LTV = R1,500."
+    },
+    {
+      "type": "heading",
+      "text": "Why is this valuable?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Now that you know how much cash your customers should bring you, you can craft highly targeted CRM strategies. The best way to do this is to create value segments based on the current spend of your customers and create a strategy for each segment. You’ll also be able to optimise your marketing spend accordingly, as you’ll have a solid understanding of what your target CPA and ROI should be."
+    },
+    {
+      "type": "pullquote",
+      "text": "If you’re making decisions in the absence of understanding your customer’s lifetime value, there’s a good chance you’ll find yourself revising your budgets and targets on a daily basis."
+    }
+  ],
+  "seo": {
+    "title": "",
+    "description": ""
+  }
+}

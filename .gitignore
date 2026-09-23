@@ -1,0 +1,11 @@
+node_modules/
+dist/
+dist-*/
+data/
+.env
+.env.local
+.DS_Store
+media-src/out/
+media-src/source/
+__pycache__/
+*.log

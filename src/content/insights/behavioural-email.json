@@ -1,0 +1,56 @@
+{
+  "slug": "a-3-step-approach-to-behavioral-email-marketing",
+  "order": 3,
+  "hidden": false,
+  "title": "Our Approach to Behavioral Email Marketing",
+  "display": [
+    "Our approach to",
+    "behavioral email",
+    "marketing."
+  ],
+  "category": "Email marketing",
+  "readMinutes": 3,
+  "dek": "Customer actions trigger automated, relevant messages based on how people interact with your brand.",
+  "image": "/images/insight-behavioral.webp",
+  "imageAlt": "Illustrative contour field",
+  "body": [
+    {
+      "type": "paragraph",
+      "text": "Triggered emails, sales funnel, dynamic segmentation, events and properties… When it comes to email marketing these terms are used on a daily basis and should form the basis of any email marketer’s vocabulary. However, these buzzwords should not be used or seen in isolation, as they are part of something much more valuable known as “behavioral email marketing”."
+    },
+    {
+      "type": "paragraph",
+      "text": "Simply put, behavioral email marketing is exactly what it sounds like. By observing customer actions and marketing based on brand interactions, automated campaigns become possible and specifically targeted to behavior patterns."
+    },
+    {
+      "type": "step",
+      "number": "01",
+      "heading": "Define your sales funnel",
+      "text": "Define your sales funnel from initial contact through post-purchase. Identify the different customer classifications, the relevant events, and the properties that shift customers between classifications. Start small, and optimise later by adding complexity."
+    },
+    {
+      "type": "step",
+      "number": "02",
+      "heading": "Select your software",
+      "text": "Select email marketing software (Klaviyo recommended) and integrate the tracking code. Define your sales funnel and goals first, as this will ultimately determine which software to use."
+    },
+    {
+      "type": "step",
+      "number": "03",
+      "heading": "Recreate the funnel with dynamic segments",
+      "text": "Rebuild the sales funnel using dynamic segments that automatically include or exclude customers based on behavioural conditions."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, to target customers who added items to their cart but didn’t check out within seven days, set the conditions: “Added Product to Cart” (at least once, in the last 7 days) AND “Checked Out” (zero times, in the last 7 days)."
+    },
+    {
+      "type": "pullquote",
+      "text": "By implementing these steps, marketers can automate emails based on customer behavior — an increase in ROI and profits, and an overall better customer experience."
+    }
+  ],
+  "seo": {
+    "title": "",
+    "description": ""
+  }
+}

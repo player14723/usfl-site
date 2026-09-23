@@ -1,0 +1,19 @@
+{
+  "logo": {
+    "type": "wordmark",
+    "image": "",
+    "imageOnLight": "",
+    "alt": "usfl",
+    "height": "26px"
+  },
+  "wordmark": {
+    "showSignalTicks": true,
+    "tickColors": ["#C8FF3D", "#B8F7FF", "#F3F6F8", "#C8FF3D"]
+  },
+  "footerMark": {
+    "show": true
+  },
+  "favicon": "/favicon.svg",
+  "themeColor": "#080A0D",
+  "socialImage": "/images/og.jpg"
+}

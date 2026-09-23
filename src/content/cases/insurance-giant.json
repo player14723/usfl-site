@@ -1,0 +1,79 @@
+{
+  "slug": "transforming-a-traditional-insurance-giant-into-a-customer-centric-digital-powerhouse",
+  "order": 1,
+  "hidden": false,
+  "number": "01",
+  "title": "Transforming a Traditional Insurance Giant into a Customer Centric Digital Powerhouse",
+  "display": [
+    "Transforming a",
+    "traditional insurance",
+    "giant."
+  ],
+  "kicker": "Digital transformation",
+  "summary": "As part of a major digital transformation, we helped reimagine a legacy insurance ecosystem uniting experiences across customers, employees, and intermediaries, and tackling the complex challenges that come with large-scale change.",
+  "capabilities": [
+    "experience",
+    "technology"
+  ],
+  "image": "/images/case-insurance.webp",
+  "imageSecondary": "/images/case-insurance-b.webp",
+  "imageAlt": "Illustrative journey map with lanes for customer, employee, intermediary and system",
+  "cinematic": "work-loop",
+  "layout": "journey",
+  "meta": [
+    {
+      "label": "Sector",
+      "value": "Insurance"
+    },
+    {
+      "label": "Client",
+      "value": "Traditional insurer (unnamed)"
+    },
+    {
+      "label": "Audiences",
+      "value": "Customers · Employees · Intermediaries"
+    },
+    {
+      "label": "Focus",
+      "value": "Digital transformation"
+    }
+  ],
+  "context": "The initiative aimed to establish a unified digital experience across a complex ecosystem spanning customers, employees, and intermediaries.",
+  "challenge": {
+    "lead": "Modernise legacy systems. Align fragmented teams. Reimagine the experience from the ground up.",
+    "body": "A unified digital experience across a complex ecosystem spanning customers, employees, and intermediaries — with the challenges that come with large-scale change."
+  },
+  "approach": [
+    {
+      "title": "Discovery first",
+      "text": "To ensure every sprint was rooted in purpose, each phase kicked off with a focused 1–2 week discovery cycle."
+    },
+    {
+      "title": "Listen to the process",
+      "text": "Interviews and observational research with stakeholders in the Risk Insurance onboarding process, to understand roles, workflows, pain points and aspirations."
+    },
+    {
+      "title": "Map the whole journey",
+      "text": "The entire end-to-end business process and customer journey, connecting every touchpoint, decision, and emotion along the way."
+    }
+  ],
+  "built": "After months of collaboration, iteration, and testing, we delivered a final design that not only met user expectations but elevated them.",
+  "statement": [
+    "Three audiences.",
+    "One *ecosystem.*"
+  ],
+  "result": {
+    "headline": "A final design that met user expectations — and elevated them.",
+    "metrics": [],
+    "note": "No quantified results have been published for this engagement, so none are shown here."
+  },
+  "takeaways": [
+    "Discovery cycles keep every sprint rooted in purpose.",
+    "One journey map connects customers, employees and intermediaries.",
+    "Large-scale change is a design problem as much as a technology one."
+  ],
+  "seo": {
+    "title": "",
+    "description": ""
+  }
+}

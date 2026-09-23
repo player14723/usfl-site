@@ -1,0 +1,119 @@
+{
+  "id": "contact",
+  "title": "Start a conversation",
+  "path": "/contact",
+  "visible": true,
+  "order": 5,
+  "transitionLabel": "Start a conversation",
+  "transitionIndex": "05",
+  "seo": {
+    "title": "Start a conversation",
+    "description": "Tell us where you are — and where you suspect revenue is leaking — and we will take it from there.",
+    "ogTitle": "",
+    "ogDescription": "",
+    "image": "",
+    "canonical": "",
+    "robots": ""
+  },
+  "sections": [
+    {
+      "type": "page-hero",
+      "id": "hero",
+      "hidden": false,
+      "motion": "inherit",
+      "spacing": "default",
+      "eyebrow": "Start a conversation",
+      "index": "05",
+      "lines": [
+        "Have an idea",
+        "you want to",
+        "*bring to life?*"
+      ],
+      "intro": "If you are investing heavily in acquisition but unsure whether your retention engine is truly performing, it may be time to reassess the system behind it.",
+      "image": "/images/contact-a.webp",
+      "imageAlt": "Seen from above, two people shake hands across a table of laptops, notebooks and coffee",
+      "size": "display-lg"
+    },
+    {
+      "type": "transition",
+      "id": "t-talk",
+      "hidden": false,
+      "motion": "inherit",
+      "spacing": "default",
+      "from": "dark",
+      "to": "light",
+      "variant": "circle",
+      "kicker": "Let’s talk",
+      "lines": [
+        "Let’s evaluate where",
+        "revenue may be *leaking.*"
+      ],
+      "height": "160vh",
+      "origin": [
+        0.5,
+        0.5
+      ]
+    },
+    {
+      "type": "contact",
+      "id": "contact",
+      "hidden": false,
+      "motion": "inherit",
+      "spacing": "default",
+      "eyebrow": "How to reach us",
+      "heading": "Tell us where you are and we will take it from there.",
+      "linkedinLabel": "Message us on LinkedIn",
+      "image": "/images/paper-a.webp",
+      "imageAlt": "Fine ink contour lines on paper",
+      "topics": [
+        {
+          "title": "Where you are",
+          "text": "Your business, who your customers are, and how they currently hear from you."
+        },
+        {
+          "title": "Where it leaks",
+          "text": "The point in the journey where you suspect revenue is slipping — first purchase to second, cart to checkout, sign-up to activation."
+        },
+        {
+          "title": "What you have",
+          "text": "The platforms and data already in place, including whether Klaviyo is part of the stack."
+        }
+      ],
+      "form": {
+        "submitLabel": "Send",
+        "sendingLabel": "Sending",
+        "successMessage": "Thank you — we will be in touch.",
+        "errorMessage": "Something went wrong sending that. Please try again.",
+        "consentLabel": ""
+      },
+      "showForm": true,
+      "fields": [
+        {
+          "label": "Your name",
+          "name": "name",
+          "kind": "text",
+          "required": true
+        },
+        {
+          "label": "Email",
+          "name": "email",
+          "kind": "email",
+          "required": true
+        },
+        {
+          "label": "Company",
+          "name": "company",
+          "kind": "text",
+          "required": false
+        },
+        {
+          "label": "What would you like to talk about?",
+          "name": "message",
+          "kind": "textarea",
+          "required": true,
+          "wide": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+# docker compose up -d   → website and editor on http://localhost:3000 (put HTTPS in front, see docs/DEPLOYMENT.md)
+services:
+  site:
+    build: .
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    env_file: .env
+    volumes:
+      - site-data:/data
+volumes:
+  site-data:

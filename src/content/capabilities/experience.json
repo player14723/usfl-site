@@ -1,0 +1,45 @@
+{
+  "slug": "experience",
+  "order": 1,
+  "hidden": false,
+  "number": "01",
+  "name": "Experience",
+  "short": "Digital experiences that make brands easier to understand, trust, and choose.",
+  "statement": [
+    "Begin with the *people.*",
+    "Map the whole journey."
+  ],
+  "image": "/images/cap-experience.webp",
+  "imageAlt": "A hand reaches across a table of phones and tablets, every screen glowing green",
+  "services": [
+    "UX strategy",
+    "UI design",
+    "Prototyping",
+    "Journey mapping",
+    "Discovery & research"
+  ],
+  "intro": "We design intuitive digital experiences that make brands easier to understand, trust, and choose — and we begin with the people who will actually use them.",
+  "body": [
+    "On large transformations we open every phase with a focused one-to-two-week discovery cycle, so each sprint is rooted in purpose. Interviews and observational research with the people inside the process show us roles, workflows, pain points and aspirations before a screen is drawn.",
+    "From there we map the entire end-to-end business process and customer journey — every touchpoint, decision and emotion along the way — and design, prototype and test until the result does more than meet expectations."
+  ],
+  "principles": [
+    {
+      "title": "Begin with the people",
+      "text": "Interviews and observation with the stakeholders who live the process every day."
+    },
+    {
+      "title": "Map the whole journey",
+      "text": "The end-to-end process and journey, connecting every touchpoint, decision and emotion."
+    },
+    {
+      "title": "Iterate in the open",
+      "text": "Months of collaboration, iteration and testing — not a single reveal."
+    }
+  ],
+  "relatedInsights": [],
+  "seo": {
+    "title": "",
+    "description": ""
+  }
+}

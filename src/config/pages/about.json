@@ -1,0 +1,175 @@
+{
+  "id": "about",
+  "title": "About",
+  "path": "/about",
+  "visible": true,
+  "order": 3,
+  "transitionLabel": "About",
+  "transitionIndex": "03",
+  "seo": {
+    "title": "About",
+    "description": "A boutique experience design and Martech agency building connected growth systems powered by data, automation, and intelligent design.",
+    "ogTitle": "",
+    "ogDescription": "",
+    "image": "",
+    "canonical": "",
+    "robots": ""
+  },
+  "sections": [
+    {
+      "type": "page-hero",
+      "id": "hero",
+      "hidden": false,
+      "motion": "inherit",
+      "spacing": "default",
+      "eyebrow": "About USFL",
+      "index": "03",
+      "lines": [
+        "Usable",
+        "solutions",
+        "for *life.*"
+      ],
+      "intro": "A boutique experience design and Martech agency building connected growth systems powered by data, automation, and intelligent design.",
+      "image": "/images/about-a.webp",
+      "imageAlt": "Looking straight up between glass towers to a clear blue sky",
+      "size": "display-xl"
+    },
+    {
+      "type": "transition",
+      "id": "t-who",
+      "hidden": false,
+      "motion": "inherit",
+      "spacing": "default",
+      "from": "dark",
+      "to": "light",
+      "variant": "circle",
+      "kicker": "Who we are",
+      "lines": [
+        "A boutique experience",
+        "design and Martech agency."
+      ],
+      "height": "180vh",
+      "origin": [
+        0.22,
+        0.6
+      ]
+    },
+    {
+      "type": "text-image",
+      "id": "what-we-do",
+      "hidden": false,
+      "motion": "inherit",
+      "spacing": "default",
+      "theme": "light",
+      "eyebrow": "What we do",
+      "heading": "We build connected growth systems powered by data, automation, and intelligent design.",
+      "paragraphs": [
+        "USFL is South Africa's only Klaviyo Gold Partner delivering world-class CRM, automation, and data-driven growth.",
+        "We do not send emails. We build customer growth systems — journeys that react, adapt and compound over time, built around behaviour rather than assumptions.",
+        "On larger transformations every phase opens with a focused one-to-two-week discovery cycle, so each sprint is rooted in purpose: interviews and observation with the people inside the process, and a map of the whole journey before a screen is drawn."
+      ],
+      "image": "/images/about-b.webp",
+      "imageAlt": "Fine luminous lines resolving into a single point",
+      "imageSide": "right",
+      "link": {
+        "label": "",
+        "to": ""
+      }
+    },
+    {
+      "type": "transition",
+      "id": "t-name",
+      "hidden": false,
+      "motion": "inherit",
+      "spacing": "default",
+      "from": "light",
+      "to": "dark",
+      "variant": "diagonal",
+      "kicker": "The name",
+      "lines": [
+        "USFL.",
+        "Usable Solutions *For* *Life.*"
+      ],
+      "height": "170vh"
+    },
+    {
+      "type": "cards",
+      "id": "the-name",
+      "hidden": false,
+      "motion": "inherit",
+      "spacing": "default",
+      "theme": "dark",
+      "eyebrow": "The name",
+      "heading": "Four words, one *system.*",
+      "items": [
+        {
+          "mark": "U",
+          "title": "Usable",
+          "text": "Intuitive digital experiences that make brands easier to understand, trust, and choose.",
+          "tone": "accent"
+        },
+        {
+          "mark": "S",
+          "title": "Solutions",
+          "text": "Connected growth systems powered by data, automation, and intelligent design.",
+          "tone": "accent2"
+        },
+        {
+          "mark": "F",
+          "title": "For",
+          "text": "Built around the people who use them — customers, employees and intermediaries.",
+          "tone": "invert"
+        },
+        {
+          "mark": "L",
+          "title": "Life",
+          "text": "Journeys that keep customers engaged long after the first purchase.",
+          "tone": "accent"
+        }
+      ]
+    },
+    {
+      "type": "split-statement",
+      "id": "partnership",
+      "hidden": false,
+      "motion": "inherit",
+      "spacing": "flush-top",
+      "theme": "dark",
+      "eyebrow": "Partnership",
+      "heading": "South Africa’s only Klaviyo Gold Partner*.*",
+      "text": "Gold Partner status is not about volume. It reflects capability, architecture and commercial impact: structured data, behaviour-driven automation, continuous optimisation, and journeys that keep working long after a single campaign ends.",
+      "link": {
+        "label": "Read: this isn’t about a badge",
+        "to": "/insights/usfl-is-a-klaviyo-gold-partner-but-this-isnt-about-a-badge"
+      }
+    },
+    {
+      "type": "columns",
+      "id": "who-we-work-with",
+      "hidden": false,
+      "motion": "inherit",
+      "spacing": "default",
+      "theme": "dark2",
+      "eyebrow": "Who we work with",
+      "source": "audience",
+      "items": []
+    },
+    {
+      "type": "cta",
+      "id": "final-cta",
+      "hidden": false,
+      "motion": "inherit",
+      "spacing": "default",
+      "theme": "dark",
+      "eyebrow": "Start a conversation",
+      "heading": "Have an idea you want to *bring to life?*",
+      "text": "If you are investing heavily in acquisition but unsure whether your retention engine is truly performing, it may be time to reassess the system behind it.",
+      "button": {
+        "label": "Start a conversation",
+        "to": "/contact"
+      },
+      "image": "/images/contact-a.webp",
+      "imageAlt": "Seen from above, two people shake hands across a working table"
+    }
+  ]
+}

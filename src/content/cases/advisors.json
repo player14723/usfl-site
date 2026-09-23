@@ -1,0 +1,86 @@
+{
+  "slug": "empowering-advisors-with-tools-for-the-future-of-financial-planning",
+  "order": 3,
+  "hidden": false,
+  "number": "03",
+  "title": "Empowering Advisors with Tools for the Future of Financial Planning",
+  "display": [
+    "Empowering advisors",
+    "for the future of",
+    "financial planning."
+  ],
+  "kicker": "Journey research",
+  "summary": "We were brought in to conduct a deep-dive investigation into the risk insurance journey for a major client. The process was complex, involving multiple touchpoints and stakeholders, and the organization needed clarity on where the experience was breaking down and how to fix it.",
+  "capabilities": [
+    "experience",
+    "intelligence"
+  ],
+  "image": "/images/case-advisors.webp",
+  "imageSecondary": "/images/case-advisors-b.webp",
+  "imageAlt": "Illustrative perspective lattice with connected nodes",
+  "cinematic": "",
+  "layout": "roadmap",
+  "meta": [
+    {
+      "label": "Sector",
+      "value": "Risk insurance · Financial services"
+    },
+    {
+      "label": "Client",
+      "value": "Major financial services client (unnamed)"
+    },
+    {
+      "label": "Focus",
+      "value": "Customer journey research & roadmap"
+    }
+  ],
+  "context": "A deep-dive investigation into the risk insurance journey — complex, with multiple touchpoints and stakeholders.",
+  "challenge": {
+    "lead": "Where is the experience breaking down — and how do we fix it?",
+    "body": "The organisation needed clarity across a journey involving multiple touchpoints and stakeholders."
+  },
+  "approach": [
+    {
+      "title": "Visualise the experience",
+      "text": "A detailed Customer Journey Map documenting interactions across onboarding, identifying pain points and opportunities to simplify, support, and personalise the journey for greater impact."
+    }
+  ],
+  "roadmap": [
+    {
+      "title": "Hyper-personalised onboarding flows",
+      "text": "Onboarding that responds to the person, not the process."
+    },
+    {
+      "title": "Unified digital adviser handover tools",
+      "text": "One connected handover between the people involved."
+    },
+    {
+      "title": "Application progress tracking",
+      "text": "Customers able to see where their application stands."
+    },
+    {
+      "title": "Mobile-friendly experiences",
+      "text": "Journeys that work where customers actually are."
+    }
+  ],
+  "built": "A proposed roadmap addressing hyper-personalised onboarding flows, unified digital adviser handover tools, customer access to application progress tracking, and mobile-friendly experiences.",
+  "statement": [
+    "Multiple touchpoints.",
+    "Multiple *stakeholders.*"
+  ],
+  "reflection": "Customers no longer compare your service solely to direct competitors — they measure it against the seamless experiences offered by companies like Amazon, Netflix, and Uber.",
+  "result": {
+    "headline": "A clear roadmap for where the journey breaks — and how to fix it.",
+    "metrics": [],
+    "note": "This engagement delivered research and a proposed roadmap; no quantified outcomes have been published."
+  },
+  "takeaways": [
+    "Journey maps make the invisible breaking points visible.",
+    "Customers benchmark against the best experiences they have, not just your sector.",
+    "Adviser tools and customer tools should be designed as one system."
+  ],
+  "seo": {
+    "title": "",
+    "description": ""
+  }
+}

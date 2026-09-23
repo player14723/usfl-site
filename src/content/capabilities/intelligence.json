@@ -1,0 +1,48 @@
+{
+  "slug": "intelligence",
+  "order": 2,
+  "hidden": false,
+  "number": "02",
+  "name": "Intelligence",
+  "short": "Insight and architecture that turn complexity into a clear plan.",
+  "statement": [
+    "Every browse, purchase, click",
+    "and drop-off is a *signal.*"
+  ],
+  "image": "/images/cap-intelligence.webp",
+  "imageAlt": "Two people in lab coats and safety glasses study a robotic arm; one takes notes on a clipboard",
+  "services": [
+    "Insights",
+    "Architecture",
+    "Behavioural tracking",
+    "Segmentation",
+    "Customer lifetime value"
+  ],
+  "intro": "We turn complexity into a clear plan for how your brand attracts, converts, and keeps customers — by turning customer behaviour into usable intelligence.",
+  "body": [
+    "Every browse, purchase, click and drop-off is a signal. Structured properly, those signals tell you where the relationship is strong, where it is quietly leaking, and what to do about it.",
+    "Our work starts with visibility: tracking progression and the points where people stall, understanding lifetime value so budgets and targets rest on evidence, and building segments that include and exclude customers automatically as their behaviour changes."
+  ],
+  "principles": [
+    {
+      "title": "Visibility before optimisation",
+      "text": "Full tracking of progression and stalling points comes first."
+    },
+    {
+      "title": "Know what a customer is worth",
+      "text": "Lifetime value grounds budget, CPA and ROI decisions in something solid."
+    },
+    {
+      "title": "Segment by behaviour",
+      "text": "Dynamic segments that adapt as customers do."
+    }
+  ],
+  "relatedInsights": [
+    "how-to-simply-calculate-customer-lifetime-value",
+    "a-3-step-approach-to-behavioral-email-marketing"
+  ],
+  "seo": {
+    "title": "",
+    "description": ""
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "growth",
+  "order": 4,
+  "hidden": false,
+  "number": "04",
+  "name": "Growth",
+  "short": "Systems that turn traffic into customers, customers into loyalty, and data into smarter decisions.",
+  "statement": [
+    "Respond,",
+    "don’t *broadcast.*"
+  ],
+  "image": "/images/cap-growth.webp",
+  "imageAlt": "A tablet showing a rising candlestick chart in front of screens of live market data",
+  "services": [
+    "Acquisition",
+    "Conversion",
+    "CRM",
+    "Personalisation",
+    "Lifecycle"
+  ],
+  "intro": "We design growth systems that turn traffic into customers, customers into loyalty, and data into smarter decisions — and we use data, automation and personalisation to keep customers engaged long after the first purchase.",
+  "body": [
+    "Growth does not come from sending more emails. It comes from designing journeys that react, adapt and compound over time — messages triggered by intent rather than the calendar.",
+    "We begin with a harder question than “what should we send this month?”: where in the customer journey is revenue leaking because the relationship is not being reinforced?"
+  ],
+  "principles": [
+    {
+      "title": "Respond, don’t broadcast",
+      "text": "Moving from campaigns to behaviour: product views, carts, first purchases, quiet customers."
+    },
+    {
+      "title": "Context over volume",
+      "text": "Interventions aligned with where a person actually is."
+    },
+    {
+      "title": "A single next action",
+      "text": "Each touchpoint guides toward one meaningful step."
+    }
+  ],
+  "relatedInsights": [
+    "usfl-is-a-klaviyo-gold-partner-but-this-isnt-about-a-badge",
+    "how-to-simply-calculate-customer-lifetime-value"
+  ],
+  "seo": {
+    "title": "",
+    "description": ""
+  }
+}

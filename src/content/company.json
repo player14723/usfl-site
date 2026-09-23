@@ -1,0 +1,62 @@
+{
+  "audience": [
+    {
+      "number": "01",
+      "title": "Financial services & insurance",
+      "text": "Complex ecosystems spanning customers, employees and intermediaries — where legacy systems, fragmented teams and long journeys meet."
+    },
+    {
+      "number": "02",
+      "title": "Organisations with many stakeholders",
+      "text": "Where the process has more than one audience and the experience has to hold together for all of them."
+    },
+    {
+      "number": "03",
+      "title": "Digital products & e-commerce",
+      "text": "Brands with healthy acquisition that are ready to build the lifecycle behind it — activation, retention and lifetime value."
+    }
+  ],
+  "why": [
+    {
+      "number": "01",
+      "title": "Architecture, not campaigns",
+      "text": "We do not send emails. We build customer growth systems — journeys that react, adapt and compound over time."
+    },
+    {
+      "number": "02",
+      "title": "Klaviyo as infrastructure",
+      "text": "Gold Partner status reflects capability, architecture and commercial impact: structured data, behaviour-driven automation and continuous optimisation."
+    },
+    {
+      "number": "03",
+      "title": "Discovery before design",
+      "text": "Each phase opens with a focused one-to-two-week discovery cycle, so every sprint is rooted in purpose."
+    },
+    {
+      "number": "04",
+      "title": "One connected system",
+      "text": "Strategy, experience, data, technology, automation and growth designed together rather than handed between silos."
+    }
+  ],
+  "marquee": [
+    "Klaviyo Gold Partner",
+    "CRM",
+    "Automation",
+    "Data-driven growth",
+    "Lifecycle architecture",
+    "Experience design",
+    "Behavioural marketing"
+  ],
+  "partner": {
+    "name": "Klaviyo Gold Partner",
+    "line": "South Africa’s only Klaviyo Gold Partner.",
+    "namedClients": [
+      "Yep"
+    ],
+    "sectors": [
+      "Insurance",
+      "Financial services",
+      "E-commerce & digital products"
+    ]
+  }
+}
