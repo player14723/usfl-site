@@ -47,13 +47,18 @@ const auth = new Auth(db, { secure: SECURE })
 const media = new Media(db, { dataDir: DATA_DIR, staticRoot: STATIC, store })
 await media.indexBuiltins()
 
-if (auth.count() === 0) {
-  if (process.env.ADMIN_EMAIL && process.env.ADMIN_PASSWORD) {
+if (process.env.ADMIN_EMAIL && process.env.ADMIN_PASSWORD) {
+  const existing = db.prepare('SELECT id FROM users WHERE email = ?').get(String(process.env.ADMIN_EMAIL).trim().toLowerCase())
+
+  if (existing) {
+    auth.setPassword(existing.id, process.env.ADMIN_PASSWORD, { mustChange: false })
+    console.log(`Owner account password reset for ${process.env.ADMIN_EMAIL}.`)
+  } else {
     auth.createUser({ email: process.env.ADMIN_EMAIL, name: '', role: 'owner', password: process.env.ADMIN_PASSWORD, mustChange: false })
     console.log(`Owner account created for ${process.env.ADMIN_EMAIL}.`)
-  } else {
-    console.log('No editor accounts yet. Create one with:  npm run user:create -- you@example.com owner')
   }
+} else if (auth.count() === 0) {
+  console.log('No editor accounts yet. Create one with:  npm run user:create -- you@example.com owner')
 }
 
 /* ---------- app ---------- */
