@@ -51,8 +51,7 @@ if (process.env.ADMIN_EMAIL && process.env.ADMIN_PASSWORD) {
   const existing = db.prepare('SELECT id FROM users WHERE email = ?').get(String(process.env.ADMIN_EMAIL).trim().toLowerCase())
 
   if (existing) {
-    auth.setPassword(existing.id, process.env.ADMIN_PASSWORD, { mustChange: false })
-    console.log(`Owner account password reset for ${process.env.ADMIN_EMAIL}.`)
+    console.log(`Owner account already exists for ${process.env.ADMIN_EMAIL}; leaving its password unchanged.`)
   } else {
     auth.createUser({ email: process.env.ADMIN_EMAIL, name: '', role: 'owner', password: process.env.ADMIN_PASSWORD, mustChange: false })
     console.log(`Owner account created for ${process.env.ADMIN_EMAIL}.`)
